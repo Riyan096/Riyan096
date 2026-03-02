@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#00ffe7">Mohammad Bhuyia</span>
+  Mohammad Bhuyia
 </h1>
 
 <p align="center">
@@ -8,17 +8,16 @@
 
 ---
 
-## 🖤 About Me
+## About Me
 
-- Aspiring **web developer** currently learning **React, Java, and TypeScript**  
-- Exploring **AI, real-time systems, and automation**  
-- Building **CampusFind**, an AI-powered campus lost & found platform as a learning project  
-- Interested in **scalable systems, clean code, and practical projects**  
-- Documenting my journey and projects on GitHub  
+- Aspiring web developer currently learning React, Java, and TypeScript  
+- Exploring AI, real-time systems, and automation  
+- Building CampusFind as a learning project  
+- Interested in scalable systems, clean code, and practical projects  
 
 ---
 
-## 💻 Tech Stack (Learning & Projects)
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,java,nodejs,firebase,tailwind,git,linux,vite&theme=dark" />
@@ -26,38 +25,38 @@
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### CampusFind
-AI-powered lost & found platform built with **React** and **Firebase**  
+AI-powered lost & found platform built with React and Firebase  
 Real-time updates • Smart matching • Admin dashboard • Gamification  
 
 <p align="center">
-  <a href="https://github.com/Riyan096/CampusFind">
+  <a href="https://github.com/YOUR-GITHUB-USERNAME/CampusFind">
     <img src="https://img.shields.io/badge/View_Project-00ffe7?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Riyan096&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyan096&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Contribution Graph
+## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyan096&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
@@ -74,5 +73,5 @@ Real-time updates • Smart matching • Admin dashboard • Gamification
 ---
 
 <p align="center">
-  <i style="color:#00ffe7">“Learning. Building. Improving.”</i>
+  <i style="color:#00ffe7">Learning. Building. Improving.</i>
 </p>
