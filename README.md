@@ -13,7 +13,6 @@
 - Aspiring web developer currently learning React, Java, and TypeScript  
 - Exploring AI, real-time systems, and automation  
 - Building CampusFind as a learning project  
-- Interested in scalable systems, clean code, and practical projects  
 
 ---
 
@@ -32,18 +31,9 @@ AI-powered lost & found platform built with React and Firebase
 Real-time updates • Smart matching • Admin dashboard • Gamification  
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME/CampusFind">
+  <a href="https://github.com/Riyan096/CampusFind">
     <img src="https://img.shields.io/badge/View_Project-00ffe7?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ---
@@ -51,7 +41,7 @@ Real-time updates • Smart matching • Admin dashboard • Gamification
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyan096&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -59,19 +49,16 @@ Real-time updates • Smart matching • Admin dashboard • Gamification
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/mohammad-bhuyia-605240301/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:riyanagmed123@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i style="color:#00ffe7">Learning. Building. Improving.</i>
+  <i style="color:#00ffe7">Keep Smiling ;3</i>
 </p>
