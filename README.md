@@ -1,29 +1,27 @@
 <h1 align="center">
-  Hi, I'm Riyan 👋
+  Hey, I'm Riyan 👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;AI+Enthusiast;Systems+Thinker;Building+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=FF79C6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+&+Realtime+Systems;Building+CampusFind;Java+&+React+Enthusiast" />
 </p>
 
 ---
 
-## 🧠 About Me
+## ✨ About Me
 
-- 💻 Computer Science Student
-- 🚀 Building full-stack applications with real-world impact
-- 🧩 Interested in AI, distributed systems & scalable architecture
-- ⚡ Currently working on **CampusFind** (AI-powered campus lost & found system)
-- 🛠️ Building real-time systems & automation tools
+- 💻 Passionate about building **full-stack apps** with real-world impact  
+- 🤖 Interested in **AI**, **Realtime Systems**, and **automation**  
+- 🎓 Currently building **CampusFind**: an AI-powered campus lost & found platform  
+- 🛠️ Working with React, Firebase, Tailwind, TypeScript & Java  
+- 🎮 Also enjoy tinkering with side projects and small bots  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=react,ts,js,java,cpp,firebase,nodejs,git,linux,tailwind,vite&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=react,ts,js,java,firebase,nodejs,tailwind,git,linux,vite&theme=light" />
 </p>
 
 ---
@@ -31,8 +29,8 @@
 ## 🔥 Featured Project
 
 ### 🎓 CampusFind  
-AI-powered Lost & Found platform built with React, Firebase & Gemini API  
-Real-time updates • Smart matching • Admin dashboard • Gamification
+AI-powered Lost & Found platform built with **React**, **Firebase**, and **Gemini API**  
+Real-time updates • Smart matching • Admin dashboard • Gamification  
 
 🔗 [View Repository](https://github.com/Riyan096/CampusFind)
 
@@ -41,16 +39,16 @@ Real-time updates • Smart matching • Admin dashboard • Gamification
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riyan096&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyan096&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Riyan096&show_icons=true&theme=gruvbox-light&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyan096&layout=compact&theme=gruvbox-light&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🌸 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyan096&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyan096&theme=github-light&hide_border=true" />
 </p>
 
 ---
@@ -62,12 +60,15 @@ Real-time updates • Smart matching • Admin dashboard • Gamification
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FC5185?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Build things that matter.”</i>
+  <i>“Simplicity is the ultimate sophistication.”</i>  
 </p>
