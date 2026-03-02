@@ -1,23 +1,24 @@
 <h1 align="center">
-  <span style="color:#00ffe7">Riyan</span> — Full-Stack Developer
+  <span style="color:#00ffe7">Mohammad Bhuyia</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00ffe7&center=true&vCenter=true&width=600&lines=Building+AI+&+Realtime+Systems;Full-Stack+Web+Apps;CampusFind+Project;Java+&+React+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00ffe7&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;Learning+AI+&+Realtime+Systems;Building+CampusFind;Exploring+Java+&+React" />
 </p>
 
 ---
 
 ## 🖤 About Me
 
-- Designing **full-stack apps** with React, TypeScript & Firebase  
+- Aspiring **web developer** currently learning **React, Java, and TypeScript**  
 - Exploring **AI, real-time systems, and automation**  
-- Creator of **CampusFind**, an AI-powered campus lost & found platform  
-- Focused on **scalable systems, clean architecture, and sleek UX**  
+- Building **CampusFind**, an AI-powered campus lost & found platform as a learning project  
+- Interested in **scalable systems, clean code, and practical projects**  
+- Documenting my journey and projects on GitHub  
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack (Learning & Projects)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,java,nodejs,firebase,tailwind,git,linux,vite&theme=dark" />
@@ -28,8 +29,8 @@
 ## 🚀 Featured Project
 
 ### CampusFind
-AI-powered lost & found platform built with React, Firebase & Gemini API  
-Real-time updates • AI smart matching • Admin dashboard • Gamification  
+AI-powered lost & found platform built with **React** and **Firebase**  
+Real-time updates • Smart matching • Admin dashboard • Gamification  
 
 <p align="center">
   <a href="https://github.com/Riyan096/CampusFind">
@@ -73,5 +74,5 @@ Real-time updates • AI smart matching • Admin dashboard • Gamification
 ---
 
 <p align="center">
-  <i style="color:#00ffe7">“Code. Build. Deploy. Repeat.”</i>
+  <i style="color:#00ffe7">“Learning. Building. Improving.”</i>
 </p>
