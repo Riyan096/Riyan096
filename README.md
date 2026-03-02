@@ -1,23 +1,23 @@
 <h1 align="center">
-  Hi, I'm Riyan
+  <span style="color:#00ffe7">Riyan</span> — Full-Stack Developer
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+&+Realtime+Systems;Building+CampusFind;Java+&+React+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00ffe7&center=true&vCenter=true&width=600&lines=Building+AI+&+Realtime+Systems;Full-Stack+Web+Apps;CampusFind+Project;Java+&+React+Enthusiast" />
 </p>
 
 ---
 
-## About Me
+## 🖤 About Me
 
-- Building **full-stack web apps** with React, Firebase, and TypeScript  
-- Exploring **AI-powered solutions** and real-time systems  
-- Developing **CampusFind**, a smart campus lost & found platform  
-- Passionate about **scalable systems**, automation, and clean architecture  
+- Designing **full-stack apps** with React, TypeScript & Firebase  
+- Exploring **AI, real-time systems, and automation**  
+- Creator of **CampusFind**, an AI-powered campus lost & found platform  
+- Focused on **scalable systems, clean architecture, and sleek UX**  
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,java,nodejs,firebase,tailwind,git,linux,vite&theme=dark" />
@@ -25,30 +25,30 @@
 
 ---
 
-## Featured Project
+## 🚀 Featured Project
 
-### CampusFind  
-AI-powered Lost & Found platform built with React, Firebase & Gemini API  
-Real-time item updates • Smart matching • Admin dashboard • Gamification  
+### CampusFind
+AI-powered lost & found platform built with React, Firebase & Gemini API  
+Real-time updates • AI smart matching • Admin dashboard • Gamification  
 
 <p align="center">
   <a href="https://github.com/Riyan096/CampusFind">
-    <img src="https://img.shields.io/badge/View_Project-00D1FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Project-00ffe7?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Riyan096&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyan096&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Riyan096&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyan096&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ---
 
-## Contribution Graph
+## ⚡ Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyan096&theme=react-dark&hide_border=true" />
@@ -56,7 +56,7 @@ Real-time item updates • Smart matching • Admin dashboard • Gamification
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
@@ -73,5 +73,5 @@ Real-time item updates • Smart matching • Admin dashboard • Gamification
 ---
 
 <p align="center">
-  <i>“Code is poetry in motion.”</i>
+  <i style="color:#00ffe7">“Code. Build. Deploy. Repeat.”</i>
 </p>
