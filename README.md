@@ -28,7 +28,7 @@
 
 ### CampusFind
 AI-powered lost & found platform built with React and Firebase  
-Real-time updates • Smart matching • Admin dashboard • Gamification  
+Real-time updates • Smart matching • Gamification  
 
 <p align="center">
   <a href="https://github.com/Riyan096/CampusFind">
